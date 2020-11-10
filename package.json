@@ -1,6 +1,6 @@
 {
   "name": "jquery-mobile-multipage",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "displayName": "jQeury Mobile MultiPage",
   "dependencies": {
     "cordova-plugin-splashscreen": "6.0.0",
