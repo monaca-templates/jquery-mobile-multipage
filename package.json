@@ -1,6 +1,6 @@
 {
   "name": "jquery-mobile-multipage",
-  "version": "4.1.5",
+  "version": "4.1.6",
   "displayName": "jQeury Mobile MultiPage",
   "engines": {
     "node": ">=20.17"
